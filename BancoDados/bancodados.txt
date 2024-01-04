@@ -1,0 +1,2 @@
+{"IdCliente":0,"Documento":"343453453","Nome":"Thigao PApa","Sexo":"MASCULINO","Email":"taraujo004@gmail.com","Telefone":"11971011558","Fax":"3434345345","UF":"RN"},
+{"IdCliente":0,"Documento":"343434324","Nome":"camiseta branca","Sexo":"MASCULINO","Email":"devthiagoaraujo@gmail.com","Telefone":"11971011558","Fax":"324234234","UF":"RR"},
