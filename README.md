@@ -23,6 +23,4 @@ Operações CRUD: Implementação das operações CRUD para clientes, possibilit
 
 Front-end Integrado: Desenvolvimento de uma interface de usuário amigável para interação com a API, permitindo aos usuários realizar operações de cadastro e visualização de clientes.
 
-## :sparkles: Prévia
-Veja uma prévia clicando [aqui](https://thiagoaraujot.github.io/CadastroClientes/SistemaCorporativo.html).
 
