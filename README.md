@@ -5,8 +5,7 @@
 <hr/>
 
 <p align="center">
-  <a href="#pushpin-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sparkles-Prévia">Prévia</a>
+  <a href="#pushpin-Descrição">Descrição</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr/>
 
